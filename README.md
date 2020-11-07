@@ -9,5 +9,5 @@
 
 # Project Setup
 - install angular CLI(make sure first install node in your device)
-npm install -g @angular/cli@latest (install latest cli v globally in ur device)
+npm install -g @angular/cli@latest (install latest cli v globally in ur device).
 ng new project-folder-name
