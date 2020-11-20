@@ -26,7 +26,7 @@
 # more about component (ts file)
 - Component Decorator (imports from angular/core)
 - used to store metadata for the related component
-    @Component({
-        selector:'app-root'         //it is html tag basically used in other component
-        templateUrl:'./app.component.html'              //template(html) url
-    })
+-    @Component({
+-       selector:'app-root'         //it is html tag basically used in other component
+-       templateUrl:'./app.component.html'              //template(html) url
+-    })
