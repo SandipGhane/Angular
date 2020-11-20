@@ -11,3 +11,14 @@
 - install angular CLI(make sure first install node in your device)
 - npm install -g @angular/cli@latest (install latest cli v globally in ur device).
 - ng new project-folder-name
+
+# Creating Component
+- we can add component as manually(creating templete,stylesheet,classfile) / we can simplly used cli commands
+- compoent structure as bellow(make sure use folder and component relivent naming conventions)
+    - class file (typescript)
+    - template file(html)
+    - stylesheet(css/scss)
+    - spec file
+
+- we can also used following cli commands
+    - ng new component component-name
